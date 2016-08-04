@@ -12,5 +12,9 @@
 
 <p>This is just a TEST</p>
 
+<form class="" action="index.html" method="post">
+
+</form>
+
 </body>
 </html>
