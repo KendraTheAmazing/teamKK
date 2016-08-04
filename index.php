@@ -10,7 +10,7 @@
 
 <h2>your not the boss</h2>
 
-<p>This is just a test</p>
+<p>This is just a TEST</p>
 
 </body>
 </html>
